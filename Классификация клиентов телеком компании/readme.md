@@ -14,12 +14,9 @@
  5. Итоги работы.
 
 **Использовала инструменты:**
-- Python.
 - Pandas.
 - Matplotlib.
-- NumPy.
-- SciPy.
-- Histogram.
+- Scikit-learn
 
 **Отработала навыки:**
 - классификация,
